@@ -1,4 +1,4 @@
 # Hangman
  
-### Let's start playing by guessing the word 
+### Guess the word before you run out of lives
 - Hint: Length the word is given
