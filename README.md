@@ -1,5 +1,4 @@
 # Hangman
-
-### This is a single player fun game. 
-### You are given a word to guess 
+ 
+### Let's start playing by guessing the word 
 - Hint: Length the word is given
